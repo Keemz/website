@@ -12,3 +12,5 @@ After finishing *Learn Enough Git to Be Dangerous*, you'll know enough Git
 to be *dangerous*. This means you'll be able to use Git to track changes in
 your projects, back up data, share your work with others, and collaborate
 with programmers and other users of Git.
+
+Unfortunately after the 2 chapter, that was all that was available for free access but still useful fo rgetting started.
